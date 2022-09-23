@@ -39,7 +39,7 @@ async function sendSecretMessage() {
                     "phone_number": process.env.PHONENUMBER
                 },
                 "content": {
-                    "title": "Codementor Workshop",
+                    "title": "Message from future",
                     "body": message
                 },
                 "data": {
